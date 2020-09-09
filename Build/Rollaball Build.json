@@ -1,0 +1,16 @@
+{
+"companyName": "SomeCompanyIDK",
+"productName": "Rollaball",
+"productVersion": "0.1",
+"dataUrl": "Rollaball Build.data.unityweb",
+"wasmCodeUrl": "Rollaball Build.wasm.code.unityweb",
+"wasmFrameworkUrl": "Rollaball Build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.9f1"
+}
